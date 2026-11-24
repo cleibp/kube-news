@@ -1,4 +1,4 @@
-h1 align="center"> 🚀 Projeto kube-news </h1>
+<h1 align="center"> 🚀 Projeto kube-news </h1>
 
 ### Objetivo
 O projeto Kube-news é uma aplicação escrita em NodeJS e tem como objetivo ser uma aplicação de exemplo pra trabalhar com o uso de containers.
